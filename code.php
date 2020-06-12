@@ -1,6 +1,6 @@
 Welcome to My Site
 
-<img src = '
+<img src=''  width='500' height='500' />
 <br />
 
 <pre>
