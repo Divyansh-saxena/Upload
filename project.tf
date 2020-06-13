@@ -1,9 +1,7 @@
-// first run for the creation of security grp and then ingess and instance launch
 
 provider "aws" {
 	region = "ap-south-1"
-        access_key = "AKIA6BH2VXLXTWN4YJWO"
-	secret_key = "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" 
+        profile = "Divyansh"
 }
 
 
